@@ -1,0 +1,19 @@
+{
+  "name": "typescript-hooks-react",
+  "version": "1.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamShashi/typescript-hooks-react.git"
+  },
+  "author": "shashi.chandra101@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamShashi/typescript-hooks-react/issues"
+  },
+  "homepage": "https://github.com/iamShashi/typescript-hooks-react#readme"
+}
