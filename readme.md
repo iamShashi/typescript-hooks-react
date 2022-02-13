@@ -33,7 +33,7 @@ useEffect(() => {
   }, [shiftPressed]);
 ```
 
-When Shift :keyboard:` is pressed. It dispatches a state change event and the change is updated across the application.
+When Shift :keyboard: is pressed. It dispatches a state change event and the change is updated across the application.
 
 
 ## Contributing
@@ -46,7 +46,7 @@ Cheers :beers:
 
 ### Good First Issues
 
-Please Feel Free to report all the bugs :bugs: found whatsoever.
+Please Feel Free to report all the bugs :bug: found whatsoever.
 
 Thanks.
 
